@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Chandrashekar👋 </h1>
-<h3 align="center"> Full Stack | Competitive Programmer  </h3>
+<h3 align="center"> Full Stack Developer | Competitive Programmer  </h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 <div align="left"> 
