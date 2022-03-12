@@ -24,7 +24,7 @@
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="100">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <img src="https://giphy.com/embed/Lmy23L3RkJ0sEWokRN" width="100">
+  <img src="https://media1.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="100">
 
     
     
