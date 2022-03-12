@@ -10,7 +10,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning about core mechanics of Frameworks like ReactJs and Django
   - ✍️ &nbsp; Pursuing Competitive Programming 
-  - ⚽ &nbsp; My hobbies are fitness and developing new things. 
+  - ⚽ &nbsp; My hobbies are fitness and chess. 
 </div> 
 </div>
 
