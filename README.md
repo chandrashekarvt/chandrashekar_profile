@@ -24,8 +24,6 @@
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="100">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <img src="https://p.kindpng.com/picc/s/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" width="50">
-  <img src="https://p.kindpng.com/picc/s/485-4850282_sass-support-calligraphy-hd-png-download.png" width="50" height="50">
   <p>
 </div> 
 
